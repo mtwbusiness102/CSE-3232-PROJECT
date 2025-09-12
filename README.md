@@ -1,6 +1,17 @@
 # Buckeye Living – Student Housing Redevelopment App
 
 ## Overview
+
+PROJECT FOR CSE 3232 GOES HERE
+Include SRS Workbook, PowerPoint presentation, and Proper Documentation of everything we did for the project
+
+Documentation:
+
+SRS WorkBook:
+
+PowerPoint:
+
+
 This project, **Buckeye Living**, was developed as part of the OSU CSE 3232 Software Requirements Analysis course. Our team, **Agile Buckeyes**, set out to address the growing challenges of student housing at The Ohio State University. With enrollment rising over 16% in the 2024–2025 academic year, demand for comfortable, safe, and well-maintained student housing has reached record highs. Many residence halls are decades old, and complaints about overcrowding, maintenance delays, and poor housing allocation are common.  
 
 **Buckeye Living** is a proposed software solution: a mobile application that enables students to manage their housing assignments and submit maintenance requests more efficiently, while also providing housing staff with tools to streamline service responses and inspections. The app supports both iOS and Android platforms and is designed to improve the housing experience for students, staff, and parents.
