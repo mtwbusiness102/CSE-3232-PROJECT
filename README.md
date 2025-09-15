@@ -16,8 +16,6 @@ This project, **Buckeye Living**, was developed as part of the OSU CSE 3232 Soft
 
 **Buckeye Living** is a proposed software solution: a mobile application that enables students to manage their housing assignments and submit maintenance requests more efficiently, while also providing housing staff with tools to streamline service responses and inspections. The app supports both iOS and Android platforms and is designed to improve the housing experience for students, staff, and parents.
 
-Presentation.pdf
-
 ---
 
 ## Vision and Mission
